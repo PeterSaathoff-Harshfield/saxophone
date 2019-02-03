@@ -1,9 +1,15 @@
 body {
   font-family: Georgia;
 	background-image: url("anthony.jpg");
+  color: maroon;
 }
 
 h1 {
   text-align: center;
   font-size: 140%;
 }
+
+h2 {
+  font-size: 11%;
+}
+
