@@ -8,16 +8,15 @@ body {
 	background-image: url("anthony.jpg");
   
   text-align: center;
-  text-size: 200%;
 }
 
 .h1 {
   
-  font-size: 260%;
+  font-size: 280%;
 }
 
 .h2 {
-  font-size: 120%;
+  font-size: 130%;
 }
 
 .link {
@@ -27,6 +26,8 @@ body {
   margin: 1em;
   padding: 1em;
   border-radius: 1em;
+  
+  text-size: 170%;
 }
 
 .link a:visited, a:link, a:active {
