@@ -1,0 +1,92 @@
+		.navbar-toggler .navbar-toggler-icon {
+		  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(180, 180, 180, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+		}
+		.navbar-toggler {
+		  border-color: rgb(180, 180, 180);
+		}
+		.navbar-toggler:focus {
+		  outline-color: rgb(180, 180, 180);
+		}
+		.navbar-brand a {
+/*			color: #ddd;*/
+		}
+		.navbar-brand a:hover {
+/*			color: #ff0000;*/
+		}
+		.navbar-text {
+			color: #fcb26c;
+		}
+		
+		ul.navbar-nav a {
+			color: #aaa;
+		}
+		ul.navbar-nav a:hover {
+			color: #eee;
+		}
+		ul.navbar-nav .active a {
+			color: #eee;
+		}
+		ul.navbar-nav .active a:hover {
+			color: #eee;
+		}
+		
+		html {
+			background-color: #111;
+		}
+		body {
+			background-color: #111;
+		}
+		.text-sm {
+			font-size: 14px;
+		}
+		.text-xsm {
+			font-size: 10px;
+		}
+		.main-container {
+			max-width: 90rem;
+		}
+		.full-width-video {
+			width: 100%;
+			height: calc(100vw / 2);
+		}
+    h1 {
+      margin-top: 0.4em;
+      color: #eee;
+      font-size: 4rem;
+    }
+		.summary {
+			margin-top: 1em;
+			line-height: 2.2;
+			color: #ffcfa3;
+			font-size: 5.9vw;
+			font-weight: 300;
+/*			font-family: Times;*/
+		}
+		.action-links a {
+			font-size: 2em;
+		}
+    .services-info-container {
+			margin-top: 1em;
+			line-height: 2;
+			color: #ffcfa3;
+			font-size: 1.5em;
+			font-weight: 300;
+    }
+    .bio-body {
+			line-height: 2;
+			color: #ffcfa3;
+			font-size: 1em;
+			font-weight: 300;
+    }
+    .bio-body a {
+      color: #9999ff;
+      text-decoration: none;
+    }
+		.footer {
+			margin-top: 1em;
+			margin-bottom: 1em;
+			color: #ddd;
+		}
+		.footer hr {
+			background-color: #777;
+		}
