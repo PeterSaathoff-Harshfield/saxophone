@@ -5,7 +5,7 @@
   border-color: rgba(0,0,0,0);
 }
 .navbar-toggler:focus {
-  outline-color: rgb(255, 0, 180);
+  outline-color: rgb(200, 200, 280);
 }
 .navbar-brand a {
 /*	color: #ddd;*/
@@ -50,15 +50,15 @@ body {
 	height: calc(100vw / 2);
 }
 h1 {
-  margin-top: 0.4em;
+  margin-top: 1rem;
   color: #eee;
   font-size: 4rem;
 }
 .summary {
 	margin-top: 1em;
-	line-height: 2.2;
+	line-height: 1.8;
 	color: #ffcfa3;
-	font-size: 5.9vw;
+	font-size: 2.5rem;
 	font-weight: 300;
 /*	font-family: Times;*/
 }
@@ -73,26 +73,26 @@ h1 {
 }
 .services-info-container {
 		margin-top: 1em;
-		line-height: 2;
+		line-height: 1.7;
 		color: #ffcfa3;
 		font-size: 1.5em;
 		font-weight: 300;
 }
+.services-section {
+	margin-bottom: 2rem;
+}
 .bio-body {
-		line-height: 2;
-		color: #ffcfa3;
-		font-size: 1em;
-		font-weight: 300;
+	line-height: 1.7;
+	color: #ffcfa3;
+	font-size: 1.2rem;
+	font-weight: 300;
 }
 .bio-body a {
   color: #9999ff;
   text-decoration: none;
 }
 .footer {
-	margin-top: 1em;
-	margin-bottom: 1em;
+	margin-top: 2rem;
+	margin-bottom: 2rem;
 	color: #ddd;
-}
-.footer hr {
-	background-color: #777;
 }
