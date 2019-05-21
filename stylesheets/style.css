@@ -230,13 +230,27 @@ h2 {
 	padding: 1rem;
 	background-color: #e0e0e0;
 }
+.services-video-rule {
+	background-color: #ccc;
+	margin: 0;
+}
+.services-video-conainter {
+	margin: 0;
+	padding: 1rem;
+	background-color: #e0e0e0;
+}
+
 
 
 
 
 /*------------ Why ------------*/
+.award-rule {
+	background-color: #ccc;
+	margin: 0;
+}
 #award-section {
-	background-color: #d0d0d0;
+	background-color: #e0e0e0;
 	padding: 1rem;
 /*	text-align: center;*/
 	font-size: 1.6rem;
