@@ -22,6 +22,7 @@
 	margin-bottom: 1rem;
 }
 .subtitle-centainer p {
+	margin: 0 auto;
 	font-size: 1.1rem;
 	font-weight: 400;
 	color: #774040;
@@ -101,7 +102,6 @@ html, body {
 }
 html {
 /*	background-color: #ddd;*/
-/*	font-family: 'Verdana';*/
 }
 body {
 	background-color: #e8e8e8;
@@ -138,6 +138,7 @@ h2 {
 /*	width: 100%;*/
 /*	height: calc(100vw / 2);*/
 	width: 80vw;
+	margin: 0;
 	max-width: 60rem;
 	height: calc(80vw / 2);
 	max-height: 30rem;
@@ -229,6 +230,24 @@ h2 {
 	padding: 1rem;
 	background-color: #e0e0e0;
 }
+
+
+
+
+/*------------ Why ------------*/
+#award-section {
+	background-color: #d0d0d0;
+	padding: 1rem;
+/*	text-align: center;*/
+	font-size: 1.6rem;
+}
+#award-inner-section {
+	max-width: 50rem;
+}
+#award-iamge {
+/*	margin: 1rem;*/
+}
+
 
 
 
